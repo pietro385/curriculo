@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apoia Class</title>
+</head>
+<body>
+
+    <h1 style="background-color:rgba(65, 67, 197, 0.575)">Apoia Class</h1>
+    <h2 style="background-color:rgba(1, 5, 219, 0.185)">Apoia Class</h2>
+    <h3 style="border: 10px solid hsl(0, 50%, 22%)"></h3>
+    <h2 style="color:brown;">aaa</h2>
+    <h2 style="font-family:cursive; font-size: 10px;">aaa</h2>
+    <h2 style="font-size:50px; font-family: 'courier new', courier,monospace;">aaa</h2>
+    <p>Melhor educação<br>nas escolas</p>
+    <strong> aa</strong>
+
+    <p>acesse aqui</p>
+    <button>CLIQUE</button>      
+
+    <hr>
+    <p>Este é o outro paragrafo de exemplo</p>
+
+    <img src="/download (1).jfif" alt="Foto de um cachorro" width="300px" height="2000000px"
+    00   
+    
+  
+  
+    
+  
+</body>
+</html>
